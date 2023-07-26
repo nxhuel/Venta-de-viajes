@@ -45,12 +45,11 @@ li a:hover:not(.active) {
     align-items: center;
     height: 100vh;
     padding: 20px;
-    background: url(/img/avion.jpg);
+    background-image: url("/img/avion.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 25%;
     background-position: center;
-
 }
 
 .titulo {
