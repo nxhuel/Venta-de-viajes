@@ -45,7 +45,6 @@ li a:hover:not(.active) {
     align-items: center;
     height: 100vh;
     padding: 20px;
-    background-image: url(images.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 25%;
