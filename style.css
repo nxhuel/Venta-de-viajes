@@ -45,7 +45,7 @@ li a:hover:not(.active) {
     align-items: center;
     height: 100vh;
     padding: 20px;
-    background: url(/public/images/avion.jpg);
+    background: url(/img/avion.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 25%;
