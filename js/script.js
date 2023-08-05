@@ -26,7 +26,7 @@ enlaces.forEach (function (enlace) {
         // Mostrar el contenido DOM
         tituloElemento.innerHTML = contenido.titulo
         subTituloElemento.innerHTML = contenido.subtitulo
-        parrafoElemento.innerHTML = contenido.parrafo
+        // parrafoElemento.innerHTML = contenido.parrafo
         precioElemento.innerHTML = contenido.precio
     });
 });
