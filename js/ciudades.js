@@ -1,4 +1,4 @@
-const barcelona = {
+export const barcelona = {
     titulo: 'Descubre Barcelona: La joya de Cataluña',
     precio: 'El precio promocional por hoy es de 500 euros',
     subtitulo: 'Sumérgete en la historia, cultura y belleza de esta vibrante ciudad',
@@ -27,7 +27,7 @@ const londres = {
 }
 
 export {
-    barcelona,
+
     roma,
     paris,
     londres
@@ -35,6 +35,3 @@ export {
 
 // const { barcelona, roma, paris, londres } = require('./ciudades');
 
-//ES6
-// export { objeto1, objeto2 };
-//import { objeto1, objeto2 } from './ciudades';

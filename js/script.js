@@ -1,5 +1,6 @@
-import { barcelona, roma, paris, londres } from './ciudades.js'
+import {barcelona} from './ciudades'
 
+// { barcelona, roma, paris, londres }
 // Obetener los elementos del DOM (Document Object Model)
 
 let enlaces = document.querySelectorAll ('a')
