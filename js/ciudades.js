@@ -1,4 +1,4 @@
-export const barcelona = {
+const barcelona = {
     titulo: 'Descubre Barcelona: La joya de Cataluña',
     precio: 'El precio promocional por hoy es de 500 euros',
     subtitulo: 'Sumérgete en la historia, cultura y belleza de esta vibrante ciudad',
@@ -27,7 +27,7 @@ const londres = {
 }
 
 export {
-
+    barcelona,
     roma,
     paris,
     londres

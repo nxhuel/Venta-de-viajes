@@ -1,5 +1,5 @@
-import {barcelona} from './ciudades'
-
+// import {barcelona} from './ciudades'
+import { barcelona, roma, paris, londres } from "./ciudades.js"
 // { barcelona, roma, paris, londres }
 // Obetener los elementos del DOM (Document Object Model)
 
